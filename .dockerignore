@@ -1,8 +1,5 @@
-*
-!target/*-runner
-!target/*-runner.jar
-!target/lib/*
-!target/quarkus-app/*
-
+target/
 .env
 src/main/resources/firebase-service-account.json
+.git/
+.vscode/
